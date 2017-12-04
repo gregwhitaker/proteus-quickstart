@@ -46,7 +46,7 @@ The instructions below start two instances of the example service and requests f
 6. Run the client multiple times to see the requests load balanced between the service instances.
 
 ## Bugs and Feedback
-For bugs, questions and discussions please use the [Github Issues](https://github.com/netifi/proteus-quickstart/issues).
+For bugs, questions and discussions please use the [Github Issues](https://github.com/gregwhitaker/proteus-quickstart/issues).
 
 ## License
 Copyright 2017 Netifi Inc.
